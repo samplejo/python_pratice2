@@ -1,0 +1,17 @@
+a=22
+print(type(a))
+b=3.14
+print(type(b))
+c="Banglore"
+print(type(c))
+d=True
+print(type(d))
+e=2+5j
+print(type(e))
+a=22
+print(id(a))
+a=44
+print(id(a))
+c="Banglore"
+print(c[0])
+print(bool(-22))
