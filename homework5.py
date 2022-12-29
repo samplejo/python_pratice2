@@ -1,0 +1,8 @@
+print(bool(0))
+print(bool(None))
+print(bool([]))
+print(bool("johnson"))
+print(bool("jose"))
+print(bool(3+6j))
+print(bool(False))
+print(bool(True))
