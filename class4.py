@@ -1,0 +1,6 @@
+print(bool(12))
+print(bool("Name"))
+print(bool(1+2j))
+print(bool(0))
+print(bool(None))
+#print(bool(j))
