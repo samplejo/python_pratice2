@@ -1,0 +1,7 @@
+print(str(True))
+print(str(False))
+print(str(4))
+print(str(23.34))
+print(str(4+5j))
+print(type(str(4)))
+print(type(str(4+5j)))
