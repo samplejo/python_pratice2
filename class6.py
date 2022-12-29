@@ -1,0 +1,9 @@
+city="Banglore"
+print(city[-3])
+print(city[5])
+print(city[1:6])
+print(city[0:6:2])
+print(city[-8:-4])
+print(city[::])
+print(city[1:100])
+print(city[::-1])
